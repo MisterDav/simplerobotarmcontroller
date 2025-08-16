@@ -1,0 +1,2 @@
+The main.c file contains a very short program which I used to control my custom robot arm using a circuit board I designed. The circuit board has two joysticks and an Arduino Pro-Micro board, as well as an SSD1306 128x32 display 
+It also has two buck converters to allow the Arduino to run at 3.3v (from 12v) and the claw servo to run at 7v (I actually designed the spots for the buck converters too small so they're connected to a seperate breadboard)
